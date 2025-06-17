@@ -43,12 +43,6 @@ streamlit run image_captioner.py
 
 ---
 
-## Example Secrets File
-Example provided at:
-.streamlit/secrets.example.toml
-
----
-
 ## Why I Built This
 - To learn Python GUI development with Streamlit
 - To explore Google Gemini API’s capabilities
