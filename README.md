@@ -49,14 +49,6 @@ Example provided at:
 
 ---
 
-## Example Usage
-
-| Upload Image → Enter Prompt → Generate → Get Caption |
-|:--:|
-| Example Image or Screenshot Placeholder Here |
-
----
-
 ## Why I Built This
 - To learn Python GUI development with Streamlit
 - To explore Google Gemini API’s capabilities
