@@ -57,6 +57,5 @@ streamlit run image_captioner.py
 ---
 
 ## License
-## License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 Feel free to **fork**, use, and modify with credit.
